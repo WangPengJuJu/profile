@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://114.115.221.70:8083/Test/bjthxIos.ipa</string>
+                    <string>http://114.115.221.70/hxt/hxtIos0100.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
-                <key>bundle-identifier</key>
-                <string>com.atnc.vfr</string>
+                <key>bundle-identifier2</key>
+                <string>com.atnc.hxt</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>V1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>测试ios下载</string>
+                <string>航信通</string>
             </dict>
         </dict>
     </array>
