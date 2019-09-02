@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://114.115.221.70:8083/hxt/hxtIos0100.ipa</string>
+                    <string>http://114.115.221.70:8083/hxt/hxtIos.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>com.atnc.hxt</string>
                 <key>bundle-version</key>
-                <string>V1.0</string>
+                <string>V3.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
